@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MVC-20210111">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rectangleMVC_obfuscated.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MVC_Temperature_TP_src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
